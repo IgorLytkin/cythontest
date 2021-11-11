@@ -1,2 +1,2 @@
 # cythontest
-My cython
+My cython test lab. Introduce myself PhD Yoshihiko Futamura 
