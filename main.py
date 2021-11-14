@@ -2,11 +2,9 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import run_python
-import run_cython
-import time
-from distutils.core import setup
-from Cython.Build import cythonize
+# import run_python
+# import run_cython
+# import time
 
 def test(x):
     y = 1
